@@ -30,7 +30,7 @@
 
 Name: pulp
 Version: 2.0.6
-Release: 0.19.rc%{?dist}
+Release: 0.20.rc%{?dist}
 Summary: An application for managing software content
 Group: Development/Languages
 License: GPLv2
@@ -408,6 +408,9 @@ exit 0
 %endif
 
 %changelog
+* Wed Jan 23 2013 Justin Sherrill <jsherril@redhat.com>
+- adding dist to release 
+
 * Thu Dec 20 2012 Jeff Ortel <jortel@redhat.com> 2.0.6-0.19.rc
 - 
 
