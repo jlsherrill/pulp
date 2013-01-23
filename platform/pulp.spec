@@ -408,6 +408,9 @@ exit 0
 %endif
 
 %changelog
+* Wed Jan 23 2013 Justin Sherrill <jsherril@redhat.com> 2.0.6-0.20.rc
+- adding dist to spec 
+
 * Wed Jan 23 2013 Justin Sherrill <jsherril@redhat.com>
 - adding dist to release 
 
