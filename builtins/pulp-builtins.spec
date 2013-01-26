@@ -13,7 +13,7 @@
 # ---- Pulp Builtins -----------------------------------------------------------
 
 Name: pulp-builtins
-Version: 2.0.6
+Version: 2.0.6%{dist}
 Release: 0.19.beta
 Summary: Pulp builtin extensions
 Group: Development/Languages
