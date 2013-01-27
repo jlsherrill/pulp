@@ -290,7 +290,7 @@ Requires: python-okaara >= 1.0.26
 Requires: python-%{name}-common = %{version}-%{release}
 Requires: python-%{name}-bindings = %{version}-%{release}
 Requires: python-%{name}-client-lib = %{version}-%{release}
-Requires: %{name}-builtins-admin-extensions = %{version}-%{release}
+Requires: %{name}-builtins-admin-extensions = %{version}
 Obsoletes: pulp-admin
 
 %description admin-client
