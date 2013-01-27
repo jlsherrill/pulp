@@ -13,7 +13,7 @@
 # ---- Pulp Builtins -----------------------------------------------------------
 
 Name: pulp-builtins
-Version: 2.0.8
+Version: 2.0.9
 Release: 1.beta%{?dist}
 Summary: Pulp builtin extensions
 Group: Development/Languages
@@ -93,6 +93,9 @@ client capabilities.
 
 
 %changelog
+* Sat Jan 26 2013 Justin Sherrill <jsherril@redhat.com> 2.0.9-1.beta
+- moving dist to release
+
 * Sat Jan 26 2013 Justin Sherrill <jsherril@redhat.com> 2.0.8-1.beta
 -  fixing dist declaration
 
