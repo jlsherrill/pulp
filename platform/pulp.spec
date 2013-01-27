@@ -408,6 +408,9 @@ exit 0
 %endif
 
 %changelog
+* Sat Jan 26 2013 Justin Sherrill <jsherril@redhat.com> 2.0.6-0.21.rc
+- relaxing requires for pulp-builtins-admin-extensions  
+
 * Wed Jan 23 2013 Justin Sherrill <jsherril@redhat.com> 2.0.6-0.20.rc
 - adding dist to spec 
 
