@@ -93,6 +93,9 @@ client capabilities.
 
 
 %changelog
+* Sat Jan 26 2013 Justin Sherrill <jsherril@redhat.com> 2.0.6-2.beta
+- reseting version number, bumping release 
+
 * Sat Jan 26 2013 Justin Sherrill <jsherril@redhat.com> 2.0.9-1.beta
 - moving dist to release
 
